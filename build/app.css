@@ -1,0 +1,15 @@
+body {
+  background: aliceblue;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+body p {
+  background: red;
+  -webkit-box-align: stretch;
+  -ms-flex-align: stretch;
+  align-items: stretch;
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9ycHJfbWFkZGkvVGhvdWdodExvZ01hcmt1cC9hcHAvc2Nzcy9iYXNlL19iYXNlLnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7RUFDRSxzQkFBcUI7RUFDckIscUJBQWE7RUFBYixxQkFBYTtFQUFiLGNBQWEsRUFNZDtFQVJEO0lBS0ksZ0JBQWU7SUFDZiwyQkFBb0I7UUFBcEIsd0JBQW9CO1lBQXBCLHFCQUFvQixFQUNyQiIsImZpbGUiOiJtYWluLnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyJib2R5IHtcbiAgYmFja2dyb3VuZDogYWxpY2VibHVlO1xuICBkaXNwbGF5OiBmbGV4O1xuICBcbiAgcCB7XG4gICAgYmFja2dyb3VuZDogcmVkO1xuICAgIGFsaWduLWl0ZW1zOiBzdHJldGNoO1xuICB9XG59Il19 */
