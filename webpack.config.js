@@ -64,6 +64,7 @@ const commonConfig = merge([
     ],
   },
   parts.loadSCSS({ exclude: /node_modules/ }),
+  parts.loadFonts(),
 ]);
 
 const prodConfig = merge([]);
